@@ -1,0 +1,89 @@
+body {
+    background-color:rgba(245, 245, 245, 0.822)
+}
+
+
+
+
+.nav{
+   
+    margin-top: -70px;
+    float: right;
+}
+
+
+.handing{
+    color: darkcyan;
+    font-size: 40px;
+    margin-left: 20px;
+  
+}
+
+
+a{
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 30px;
+    color: #0d6967;
+    margin-right: 20px;
+    
+}
+
+
+hr{
+    margin-top: -20px;
+    
+}
+
+.hello{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.name{
+    
+    font-family: "Kanit", sans-serif;
+    font-size: 50px;
+}
+
+.skill{
+    font-family: "Kanit", sans-serif;
+    font-size: 30px;
+    color: maroon;
+
+}
+
+.country{
+    font-family: "Kanit", sans-serif;
+    font-size: 30px;
+    color: rgb(17, 3, 99);
+
+}
+
+.intro{
+    margin-left: 150px;
+    margin-top: 220px;
+}
+
+.cv{
+font-size: 20px;
+   background-color: #0d6967;
+   color: white;
+   border: none;
+   padding: 20px;
+   width: 200px;
+   border-radius: 30px ;
+}
+img{
+    margin-left: 1000px;
+    margin-top: -500px
+    
+    
+    
+    
+    
+    
+    
+
+
+}
